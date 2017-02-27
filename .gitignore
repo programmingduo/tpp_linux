@@ -234,3 +234,9 @@ pip-log.txt
 
 #unuse data
 data/
+*.in
+*.out
+
+# when pake a jar
+out/
+src/META-INF/
